@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 008144cb5d3dc404995bfe28668eb33f
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_gun:Bip001 Footsteps
+    100002: arm_gun:Bip001 R Finger0
+    100004: arm_gun:Bip001 R Finger01
+    100006: arm_gun:Bip001 R Finger0Nub
+    100008: arm_gun:Bip001 R Finger1
+    100010: arm_gun:Bip001 R Finger11
+    100012: arm_gun:Bip001 R Finger1Nub
+    100014: arm_gun:Bip001 R Finger2
+    100016: arm_gun:Bip001 R Finger21
+    100018: arm_gun:Bip001 R Finger2Nub
+    100020: arm_gun:Bip001 R Forearm
+    100022: arm_gun:Bip001 R Hand
+    100024: arm_gun:Bip001 R UpperArm
+    100026: //RootNode
+    100028: Bazooka1
+    400000: arm_gun:Bip001 Footsteps
+    400002: arm_gun:Bip001 R Finger0
+    400004: arm_gun:Bip001 R Finger01
+    400006: arm_gun:Bip001 R Finger0Nub
+    400008: arm_gun:Bip001 R Finger1
+    400010: arm_gun:Bip001 R Finger11
+    400012: arm_gun:Bip001 R Finger1Nub
+    400014: arm_gun:Bip001 R Finger2
+    400016: arm_gun:Bip001 R Finger21
+    400018: arm_gun:Bip001 R Finger2Nub
+    400020: arm_gun:Bip001 R Forearm
+    400022: arm_gun:Bip001 R Hand
+    400024: arm_gun:Bip001 R UpperArm
+    400026: //RootNode
+    400028: Bazooka1
+    2300000: Bazooka1
+    3300000: Bazooka1
+    4300000: Bazooka1
+    7400000: Idle
+    7400002: Shoot
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 Footsteps
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger0
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger0/arm_gun:Bip001 R Finger01
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger0/arm_gun:Bip001 R Finger01/arm_gun:Bip001 R
+          Finger0Nub
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger1
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger1/arm_gun:Bip001 R Finger11
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger1/arm_gun:Bip001 R Finger11/arm_gun:Bip001 R
+          Finger1Nub
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger2
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger2/arm_gun:Bip001 R Finger21
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger2/arm_gun:Bip001 R Finger21/arm_gun:Bip001 R
+          Finger2Nub
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/Bazooka1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 Footsteps
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger0
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger0/arm_gun:Bip001 R Finger01
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger0/arm_gun:Bip001 R Finger01/arm_gun:Bip001 R
+          Finger0Nub
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger1
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger1/arm_gun:Bip001 R Finger11
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger1/arm_gun:Bip001 R Finger11/arm_gun:Bip001 R
+          Finger1Nub
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger2
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger2/arm_gun:Bip001 R Finger21
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/arm_gun:Bip001 R Finger2/arm_gun:Bip001 R Finger21/arm_gun:Bip001 R
+          Finger2Nub
+        weight: 1
+      - path: arm_gun:Bip001 R UpperArm/arm_gun:Bip001 R Forearm/arm_gun:Bip001 R
+          Hand/Bazooka1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

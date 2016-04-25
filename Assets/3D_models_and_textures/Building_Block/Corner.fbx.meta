@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: a7d2649d663384888b4ba6e4a74cbe16
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cage
+    100002: //RootNode
+    100004: Corner_ShadowBlocker
+    100006: Corner_ShadowBlocker2
+    100008: Corner_Snap_Set
+    100010: Panel_Ceiling_Corner2
+    100012: Panel_Floor_Corner1
+    100014: Panel_Wall_Straight_CurvedLower2
+    100016: Panel_Wall_Straight_CurvedLower3
+    100018: Panel_Wall_Straight_CurvedUpper2
+    100020: Panel_Wall_Straight_CurvedUpper3
+    100022: Panel_Wall_Straight_Flat_A1
+    100024: Panel_Wall_Straight_Flat_B1
+    400000: Cage
+    400002: //RootNode
+    400004: Corner_ShadowBlocker
+    400006: Corner_ShadowBlocker2
+    400008: Corner_Snap_Set
+    400010: Panel_Ceiling_Corner2
+    400012: Panel_Floor_Corner1
+    400014: Panel_Wall_Straight_CurvedLower2
+    400016: Panel_Wall_Straight_CurvedLower3
+    400018: Panel_Wall_Straight_CurvedUpper2
+    400020: Panel_Wall_Straight_CurvedUpper3
+    400022: Panel_Wall_Straight_Flat_A1
+    400024: Panel_Wall_Straight_Flat_B1
+    2300000: Cage
+    2300002: Corner_ShadowBlocker
+    2300004: Corner_ShadowBlocker2
+    2300006: Corner_Snap_Set
+    2300008: Panel_Ceiling_Corner2
+    2300010: Panel_Floor_Corner1
+    2300012: Panel_Wall_Straight_CurvedLower2
+    2300014: Panel_Wall_Straight_CurvedLower3
+    2300016: Panel_Wall_Straight_CurvedUpper2
+    2300018: Panel_Wall_Straight_CurvedUpper3
+    2300020: Panel_Wall_Straight_Flat_A1
+    2300022: Panel_Wall_Straight_Flat_B1
+    3300000: Cage
+    3300002: Corner_ShadowBlocker
+    3300004: Corner_ShadowBlocker2
+    3300006: Corner_Snap_Set
+    3300008: Panel_Ceiling_Corner2
+    3300010: Panel_Floor_Corner1
+    3300012: Panel_Wall_Straight_CurvedLower2
+    3300014: Panel_Wall_Straight_CurvedLower3
+    3300016: Panel_Wall_Straight_CurvedUpper2
+    3300018: Panel_Wall_Straight_CurvedUpper3
+    3300020: Panel_Wall_Straight_Flat_A1
+    3300022: Panel_Wall_Straight_Flat_B1
+    4300000: Panel_Wall_Straight_CurvedLower2
+    4300002: Panel_Wall_Straight_CurvedLower3
+    4300004: Panel_Wall_Straight_Flat_A1
+    4300006: Panel_Wall_Straight_Flat_B1
+    4300008: Panel_Wall_Straight_CurvedUpper2
+    4300010: Panel_Wall_Straight_CurvedUpper3
+    4300012: Panel_Floor_Corner1
+    4300014: Panel_Ceiling_Corner2
+    4300016: Cage
+    4300018: Corner_ShadowBlocker
+    4300020: Corner_ShadowBlocker2
+    4300022: Corner_Snap_Set
+    6400000: Cage
+    6400002: Corner_ShadowBlocker
+    6400004: Corner_ShadowBlocker2
+    6400006: Corner_Snap_Set
+    6400008: Panel_Ceiling_Corner2
+    6400010: Panel_Floor_Corner1
+    6400012: Panel_Wall_Straight_CurvedLower2
+    6400014: Panel_Wall_Straight_CurvedLower3
+    6400016: Panel_Wall_Straight_CurvedUpper2
+    6400018: Panel_Wall_Straight_CurvedUpper3
+    6400020: Panel_Wall_Straight_Flat_A1
+    6400022: Panel_Wall_Straight_Flat_B1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
